@@ -1,4 +1,4 @@
-# 🌍 HitCraft - Servidor de Minecraft
+# 🌍 Kryon - Servidor de Minecraft
 
 ━━━━━━━━━━ ✦ ━━━━━━━━━━
 
